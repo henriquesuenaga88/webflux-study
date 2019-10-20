@@ -1,8 +1,8 @@
-package com.study.webflux.reactivetest.api;
+package com.study.webflux.reactivestudy.api;
 
-import com.study.webflux.reactivetest.domain.Player;
-import com.study.webflux.reactivetest.dto.PlayerDto;
-import com.study.webflux.reactivetest.service.PlayerService;
+import com.study.webflux.reactivestudy.domain.Player;
+import com.study.webflux.reactivestudy.dto.PlayerDto;
+import com.study.webflux.reactivestudy.service.PlayerService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

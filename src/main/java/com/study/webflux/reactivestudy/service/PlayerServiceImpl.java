@@ -1,8 +1,8 @@
-package com.study.webflux.reactivetest.service;
+package com.study.webflux.reactivestudy.service;
 
-import com.study.webflux.reactivetest.domain.Player;
-import com.study.webflux.reactivetest.dto.PlayerDto;
-import com.study.webflux.reactivetest.repository.PlayerRepository;
+import com.study.webflux.reactivestudy.domain.Player;
+import com.study.webflux.reactivestudy.dto.PlayerDto;
+import com.study.webflux.reactivestudy.repository.PlayerRepository;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;

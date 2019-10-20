@@ -1,13 +1,13 @@
-package com.study.webflux.reactivetest;
+package com.study.webflux.reactivestudy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ReactiveTestApplication {
+public class ReactiveStudyApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ReactiveTestApplication.class, args);
+        SpringApplication.run(ReactiveStudyApplication.class, args);
     }
 
 }

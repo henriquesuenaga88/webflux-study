@@ -1,4 +1,4 @@
-package com.study.webflux.reactivetest.domain;
+package com.study.webflux.reactivestudy.domain;
 
 import lombok.Builder;
 import lombok.Getter;

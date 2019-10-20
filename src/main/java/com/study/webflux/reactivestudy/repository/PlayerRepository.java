@@ -1,7 +1,7 @@
-package com.study.webflux.reactivetest.repository;
+package com.study.webflux.reactivestudy.repository;
 
 
-import com.study.webflux.reactivetest.domain.Player;
+import com.study.webflux.reactivestudy.domain.Player;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import org.springframework.stereotype.Repository;

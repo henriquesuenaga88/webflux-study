@@ -1,4 +1,4 @@
-package com.study.webflux.reactivetest.config;
+package com.study.webflux.reactivestudy.config;
 
 import com.mongodb.reactivestreams.client.MongoClient;
 import com.mongodb.reactivestreams.client.MongoClients;

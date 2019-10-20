@@ -1,4 +1,4 @@
-package com.study.webflux.reactivetest.dto;
+package com.study.webflux.reactivestudy.dto;
 
 import lombok.Builder;
 import lombok.Getter;
